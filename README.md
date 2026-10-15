@@ -1,1 +1,47 @@
-# bman-retro-downloader
+<div align="center">
+
+# <img width="652" height="168" alt="bmandl-pixelart-x4" src="https://github.com/user-attachments/assets/66108875-84a4-4bbc-95c4-d3a92a67dac2" />
+
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/built%20with-Python-3776AB?logo=python&logoColor=white)
+![Version](https://img.shields.io/github/v/release/BmanGames024/bman-downloader?label=latest)
+![Downloads](https://img.shields.io/github/downloads/BmanGames024/bman-downloader/total)
+![Stars](https://img.shields.io/github/stars/BmanGames024/bman-downloader?style=flat)
+
+<p>Join the Discord</p>
+<a href="https://discord.gg/GJZAAFTc6h">
+  <img width="220" height="220" alt="Discord" src="https://github.com/user-attachments/assets/9db630c6-9fde-4399-9115-9367d03211c6" />
+</a>
+
+</div>
+
+There are two apps here — pick the one for the games you want:
+
+| App | For | Download |
+|---|---|---|
+| **Bman Downloader** | Xbox 360 / OG Xbox | [Latest release](https://github.com/BmanGames024/bman-downloader/releases/latest) |
+| **Bman Retro Downloader** | Retro consoles (NES to PS3) | [Releases page](https://github.com/BmanGames024/bman-downloader/releases) — pick the newest one titled **Bman Retro** |
+
+---
+
+## Bman Retro Downloader
+
+Download games for retro consoles — NES, SNES, Game Boy, N64, GameCube, Wii, PlayStation 1–3, PSP, Vita, DS, 3DS and more.
+
+### Installation
+1. Head to the [**Releases**](https://github.com/BmanGames024/bman-downloader/releases) page and find the newest release titled **Bman Retro**.
+2. Download `BmanDownloader.exe` from it and put it in **its own folder** (not the same folder as the Xbox 360 app).
+3. Run it, go to Settings, press **Grab API Keys**, paste them in and press **Save**.
+
+### Quick start
+1. Pick a **console** in the Library tab and search for a game (or press Search to list them all).
+2. Hit **Download**. Disc games are unzipped automatically; cartridge games stay zipped, ready for your emulator.
+3. Find your games in `downloads/<console>/` — or use **Show in Folder** in the Downloads tab.
+
+Updates install automatically from inside the app.
+
+---
+
+## Disclaimer
+
+These tools are intended for creating and installing backups of games you legally own, and for preserving software on hardware you own. You are responsible for complying with the laws in your country regarding game backups and copyrighted material. The author does not host any game files — all content is retrieved from third-party archives.
