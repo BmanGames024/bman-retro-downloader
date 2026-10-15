@@ -1,5 +1,5 @@
    {
-     "version": "2.2",
-     "url": "https://github.com/BmanGames024/bman-retro-downloader/releases/download/v2.2/BmanRetroDownloader.exe",
-     "notes": "Bman Retro fully made, join the discord if bugs"
+     "version": "2.3",
+     "url": "https://github.com/BmanGames024/bman-retro-downloader/releases/download/v2.3/BmanRetroDownloader.exe",
+     "notes": "Fixed region button not auto updating the list"
    }
